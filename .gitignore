@@ -1,0 +1,28 @@
+
+# Dataset files
+data/*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Model files
+models/*.pkl
+models/*.joblib
+
+# Generated results
+results/*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
